@@ -1,4 +1,4 @@
-# MR. Video: "MapReduce" is the Principle for Long Video Understanding
+# MR. Video: "MapReduce" is the Principle for Long Video Understanding [NeurIPS 2025]
 
 [Ziqi Pang](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.cs.illinois.edu/)
 
