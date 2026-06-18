@@ -1,0 +1,9 @@
+actor:
+  lm_option: openai
+  lm_model: gpt-4o
+  vlm_option: gemini
+  vlm_model: gemini-2.0-flash
+
+video_reader:
+  vlm_option: gemini
+  vlm_model: gemini-2.0-flash

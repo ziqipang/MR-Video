@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Local data, outputs, logs, and secrets
+data/*
+datasets/*
+logs/*
+misc/*
+!data/.gitkeep
+!datasets/.gitkeep
+!logs/.gitkeep
+!misc/API_KEYS.example.json
+
 # C extensions
 *.so
 

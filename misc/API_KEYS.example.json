@@ -1,0 +1,4 @@
+{
+  "openai": "your-openai-api-key",
+  "gemini": "your-gemini-api-key"
+}
